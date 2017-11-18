@@ -1,0 +1,22 @@
+body{
+	background-image: url(m.jpg);
+	background-color: #ccc;
+}
+.test{
+	background-color: darkgray;
+
+}
+p{
+	font-size: xx-large;
+	font-weight: bolder;
+	color: maroon;
+}
+a{
+	background-color: white;
+	font-size: 50px;
+
+}
+body{
+	background-color: black;
+
+}
